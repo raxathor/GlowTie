@@ -1,0 +1,65 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 716e31c5-485f-40b5-88e3-a75900da9811)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 62.23 56.134) (size 46.228 37.338) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a501cc57-052b-407a-9909-0f181a5591ec)
+    (property "Sheetname" "LED's" (at 62.23 55.4224 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "LED's.kicad_sch" (at 62.23 94.0566 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "glowtie"
+        (path "/716e31c5-485f-40b5-88e3-a75900da9811" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 170.688 56.388) (size 59.182 32.766) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid bafbd310-2c85-41db-beaf-4accfe0a1597)
+    (property "Sheetname" "ESP" (at 170.688 55.6764 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ESP.kicad_sch" (at 170.688 89.7386 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "glowtie"
+        (path "/716e31c5-485f-40b5-88e3-a75900da9811" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 110.744 56.134) (size 58.166 36.576) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid e767f6ac-1afe-4282-b773-074c35bbd688)
+    (property "Sheetname" "TP4056" (at 110.744 55.4224 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "TP4056.kicad_sch" (at 110.744 93.2946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "glowtie"
+        (path "/716e31c5-485f-40b5-88e3-a75900da9811" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

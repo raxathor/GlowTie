@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MSK12C02'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Shou Han", "MSK12C02" (!) = "", "MSK12C02", "Other", "", "", "", "", "SMD Toggle Switches", "https://shouhan.en.made-in-china.com/product/xsMEmqgOAXWB/China-Slide-Switch-Msk12c02-Slide-Switch-on-off-2-Position-1p2t-Spdt-Miniature-Horizontal-SMD-7p-Slide-Switch.html", "1.4 mm"
+END_PART
+
+END.

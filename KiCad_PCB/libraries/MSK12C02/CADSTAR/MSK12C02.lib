@@ -1,0 +1,19 @@
+.MSK12C02 :1 ;SMD Toggle Switches
+MSK12C02
+*STM S
+*NGS
+*PNM 1=A1 2=B1 3=C1 4=MP1 5=MP2 6=MP3 7=MP4
+*PLB 1="NC" 2="COM" 3="NO" 4="MP1" 5="MP2" 6="MP3" 7="MP4"
+*MXP 9
+*DFN MSK12C02
+~!Manufacturer_Name (Shou Han)
+~!Manufacturer_Part_Number (MSK12C02)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://shouhan.en.made-in-china.com/product/xsMEmqgOAXWB/China-Slide-Switch-Msk12c02-Slide-Switch-on-off-2-Position-1p2t-Spdt-Miniature-Horizontal-SMD-7p-Slide-Switch.html)
+~!Height (1.4mm)
+~!3D_Model (MSK12C02)
+MSK12C02
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 
