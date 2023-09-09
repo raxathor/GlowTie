@@ -1,7 +1,7 @@
 # Glowtie
 ## The light-up bowtie you control over Wifi!
 
-This Project/Repository is inspired by Stephen Hawes.
+This project/repository is inspired by Stephen Hawes.
 https://www.youtube.com/@stephen_hawes
 https://github.com/sphawes/glowtie
 https://stephenhawes.com/glowtie/
